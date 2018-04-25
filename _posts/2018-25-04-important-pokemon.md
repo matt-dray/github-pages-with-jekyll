@@ -1,4 +1,7 @@
-# Important Pokemon
+---
+title: "Important Pokemon"
+date: 2018-25-04
+---
 
 Here are three very important Pokemon from each of the first three generations.
 
